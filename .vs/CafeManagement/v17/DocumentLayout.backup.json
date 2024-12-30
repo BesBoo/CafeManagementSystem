@@ -1,0 +1,387 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CafeManagementSystem\\CafeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|D:\\CafeManagementSystem\\CafeManagement\\cafemanagement\\model\\frmcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|solutionrelative:cafemanagement\\model\\frmcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|d:\\cafemanagementsystem\\cafemanagement\\cafemanagement\\view\\frmbillview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|solutionrelative:cafemanagement\\view\\frmbillview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|d:\\cafemanagementsystem\\cafemanagement\\cafemanagement\\view\\frmbillview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|solutionrelative:cafemanagement\\view\\frmbillview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|d:\\cafemanagementsystem\\cafemanagement\\cafemanagement\\model\\frmcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|solutionrelative:cafemanagement\\model\\frmcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|d:\\cafemanagementsystem\\cafemanagement\\cafemanagement\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|solutionrelative:cafemanagement\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|D:\\CafeManagementSystem\\CafeManagement\\cafemanagement\\reports\\frmreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|solutionrelative:cafemanagement\\reports\\frmreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|d:\\cafemanagementsystem\\cafemanagement\\cafemanagement\\view\\frmkitchenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|solutionrelative:cafemanagement\\view\\frmkitchenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|D:\\CafeManagementSystem\\CafeManagement\\cafemanagement\\view\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|solutionrelative:cafemanagement\\view\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|D:\\CafeManagementSystem\\CafeManagement\\cafemanagement\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|solutionrelative:cafemanagement\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|D:\\CafeManagementSystem\\CafeManagement\\cafemanagement\\view\\frmtableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|solutionrelative:cafemanagement\\view\\frmtableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|D:\\CafeManagementSystem\\CafeManagement\\cafemanagement\\reports\\frmreportstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|solutionrelative:cafemanagement\\reports\\frmreportstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|D:\\CafeManagementSystem\\CafeManagement\\cafemanagement\\reports\\frmreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|solutionrelative:cafemanagement\\reports\\frmreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|D:\\CafeManagementSystem\\CafeManagement\\cafemanagement\\model\\frmproductadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|solutionrelative:cafemanagement\\model\\frmproductadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|D:\\CafeManagementSystem\\CafeManagement\\cafemanagement\\reports\\frmreportstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|solutionrelative:cafemanagement\\reports\\frmreportstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|D:\\CafeManagementSystem\\CafeManagement\\cafemanagement\\model\\frmset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|solutionrelative:cafemanagement\\model\\frmset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|D:\\CafeManagementSystem\\CafeManagement\\cafemanagement\\model\\frmset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|solutionrelative:cafemanagement\\model\\frmset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|D:\\CafeManagementSystem\\CafeManagement\\cafemanagement\\view\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|solutionrelative:cafemanagement\\view\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|D:\\CafeManagementSystem\\CafeManagement\\cafemanagement\\view\\frmtableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|solutionrelative:cafemanagement\\view\\frmtableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|D:\\CafeManagementSystem\\CafeManagement\\cafemanagement\\model\\frmproductadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|solutionrelative:cafemanagement\\model\\frmproductadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|D:\\CafeManagementSystem\\CafeManagement\\cafemanagement\\model\\frmtableselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|solutionrelative:cafemanagement\\model\\frmtableselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|D:\\CafeManagementSystem\\CafeManagement\\cafemanagement\\model\\frmcategoryadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|solutionrelative:cafemanagement\\model\\frmcategoryadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|D:\\CafeManagementSystem\\CafeManagement\\cafemanagement\\model\\frmtableadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|solutionrelative:cafemanagement\\model\\frmtableadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|D:\\CafeManagementSystem\\CafeManagement\\cafemanagement\\view\\frmproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732C3155-9336-445C-89DE-A815E6F65EA1}|CafeManagement\\CafeManagement.csproj|solutionrelative:cafemanagement\\view\\frmproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCheckout.cs [Design]",
+              "DocumentMoniker": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Model\\frmCheckout.cs",
+              "RelativeDocumentMoniker": "CafeManagement\\Model\\frmCheckout.cs",
+              "ToolTip": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Model\\frmCheckout.cs [Design]",
+              "RelativeToolTip": "CafeManagement\\Model\\frmCheckout.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T12:39:22.599Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmBillView.cs [Design]",
+              "DocumentMoniker": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\View\\frmBillView.cs",
+              "RelativeDocumentMoniker": "CafeManagement\\View\\frmBillView.cs",
+              "ToolTip": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\View\\frmBillView.cs [Design]",
+              "RelativeToolTip": "CafeManagement\\View\\frmBillView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T12:31:33.618Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmReports.cs",
+              "DocumentMoniker": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Reports\\frmReports.cs",
+              "RelativeDocumentMoniker": "CafeManagement\\Reports\\frmReports.cs",
+              "ToolTip": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Reports\\frmReports.cs",
+              "RelativeToolTip": "CafeManagement\\Reports\\frmReports.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:12:46.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmPOS.cs",
+              "DocumentMoniker": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Model\\frmPOS.cs",
+              "RelativeDocumentMoniker": "CafeManagement\\Model\\frmPOS.cs",
+              "ToolTip": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Model\\frmPOS.cs",
+              "RelativeToolTip": "CafeManagement\\Model\\frmPOS.cs",
+              "ViewState": "AgIAANgCAAAAAAAAAAAUwOMCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:35:55.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCheckout.cs",
+              "DocumentMoniker": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Model\\frmCheckout.cs",
+              "RelativeDocumentMoniker": "CafeManagement\\Model\\frmCheckout.cs",
+              "ToolTip": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Model\\frmCheckout.cs",
+              "RelativeToolTip": "CafeManagement\\Model\\frmCheckout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:29:33.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBillView.cs",
+              "DocumentMoniker": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\View\\frmBillView.cs",
+              "RelativeDocumentMoniker": "CafeManagement\\View\\frmBillView.cs",
+              "ToolTip": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\View\\frmBillView.cs",
+              "RelativeToolTip": "CafeManagement\\View\\frmBillView.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T12:38:52.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmKitchenView.cs",
+              "DocumentMoniker": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\View\\frmKitchenView.cs",
+              "RelativeDocumentMoniker": "CafeManagement\\View\\frmKitchenView.cs",
+              "ToolTip": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\View\\frmKitchenView.cs",
+              "RelativeToolTip": "CafeManagement\\View\\frmKitchenView.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T12:27:30.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmTableView.cs [Design]",
+              "DocumentMoniker": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\View\\frmTableView.cs",
+              "RelativeDocumentMoniker": "CafeManagement\\View\\frmTableView.cs",
+              "ToolTip": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\View\\frmTableView.cs [Design]",
+              "RelativeToolTip": "CafeManagement\\View\\frmTableView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:09:00.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmProductAdd.cs [Design]",
+              "DocumentMoniker": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Model\\frmProductAdd.cs",
+              "RelativeDocumentMoniker": "CafeManagement\\Model\\frmProductAdd.cs",
+              "ToolTip": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Model\\frmProductAdd.cs [Design]",
+              "RelativeToolTip": "CafeManagement\\Model\\frmProductAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:38:49.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\View\\frmMain.cs",
+              "RelativeDocumentMoniker": "CafeManagement\\View\\frmMain.cs",
+              "ToolTip": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\View\\frmMain.cs [Design]",
+              "RelativeToolTip": "CafeManagement\\View\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:26:27.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmReportStaff.cs",
+              "DocumentMoniker": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Reports\\frmReportStaff.cs",
+              "RelativeDocumentMoniker": "CafeManagement\\Reports\\frmReportStaff.cs",
+              "ToolTip": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Reports\\frmReportStaff.cs",
+              "RelativeToolTip": "CafeManagement\\Reports\\frmReportStaff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:10:31.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmPOS.cs [Design]",
+              "DocumentMoniker": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Model\\frmPOS.cs",
+              "RelativeDocumentMoniker": "CafeManagement\\Model\\frmPOS.cs",
+              "ToolTip": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Model\\frmPOS.cs [Design]",
+              "RelativeToolTip": "CafeManagement\\Model\\frmPOS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:47:23.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmSet.cs [Design]",
+              "DocumentMoniker": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Model\\frmSet.cs",
+              "RelativeDocumentMoniker": "CafeManagement\\Model\\frmSet.cs",
+              "ToolTip": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Model\\frmSet.cs [Design]",
+              "RelativeToolTip": "CafeManagement\\Model\\frmSet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:07:55.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmSet.cs",
+              "DocumentMoniker": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Model\\frmSet.cs",
+              "RelativeDocumentMoniker": "CafeManagement\\Model\\frmSet.cs",
+              "ToolTip": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Model\\frmSet.cs",
+              "RelativeToolTip": "CafeManagement\\Model\\frmSet.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:08:00.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmReportStaff.cs [Design]",
+              "DocumentMoniker": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Reports\\frmReportStaff.cs",
+              "RelativeDocumentMoniker": "CafeManagement\\Reports\\frmReportStaff.cs",
+              "ToolTip": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Reports\\frmReportStaff.cs [Design]",
+              "RelativeToolTip": "CafeManagement\\Reports\\frmReportStaff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:10:30.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmReports.cs [Design]",
+              "DocumentMoniker": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Reports\\frmReports.cs",
+              "RelativeDocumentMoniker": "CafeManagement\\Reports\\frmReports.cs",
+              "ToolTip": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Reports\\frmReports.cs [Design]",
+              "RelativeToolTip": "CafeManagement\\Reports\\frmReports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:12:45.43Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmTableView.cs",
+              "DocumentMoniker": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\View\\frmTableView.cs",
+              "RelativeDocumentMoniker": "CafeManagement\\View\\frmTableView.cs",
+              "ToolTip": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\View\\frmTableView.cs",
+              "RelativeToolTip": "CafeManagement\\View\\frmTableView.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwCkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:08:32.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\View\\MainClass.cs",
+              "RelativeDocumentMoniker": "CafeManagement\\View\\MainClass.cs",
+              "ToolTip": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\View\\MainClass.cs",
+              "RelativeToolTip": "CafeManagement\\View\\MainClass.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAGUBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T15:58:05.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmTableSelect.cs",
+              "DocumentMoniker": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Model\\frmTableSelect.cs",
+              "RelativeDocumentMoniker": "CafeManagement\\Model\\frmTableSelect.cs",
+              "ToolTip": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Model\\frmTableSelect.cs",
+              "RelativeToolTip": "CafeManagement\\Model\\frmTableSelect.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:08:47.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmProductAdd.cs",
+              "DocumentMoniker": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Model\\frmProductAdd.cs",
+              "RelativeDocumentMoniker": "CafeManagement\\Model\\frmProductAdd.cs",
+              "ToolTip": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Model\\frmProductAdd.cs",
+              "RelativeToolTip": "CafeManagement\\Model\\frmProductAdd.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwFMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T04:56:45.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmTableAdd.cs",
+              "DocumentMoniker": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Model\\frmTableAdd.cs",
+              "RelativeDocumentMoniker": "CafeManagement\\Model\\frmTableAdd.cs",
+              "ToolTip": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Model\\frmTableAdd.cs",
+              "RelativeToolTip": "CafeManagement\\Model\\frmTableAdd.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:09:41.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmCategoryAdd.cs",
+              "DocumentMoniker": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Model\\frmCategoryAdd.cs",
+              "RelativeDocumentMoniker": "CafeManagement\\Model\\frmCategoryAdd.cs",
+              "ToolTip": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\Model\\frmCategoryAdd.cs",
+              "RelativeToolTip": "CafeManagement\\Model\\frmCategoryAdd.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwDQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T15:55:21.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmProductView.cs",
+              "DocumentMoniker": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\View\\frmProductView.cs",
+              "RelativeDocumentMoniker": "CafeManagement\\View\\frmProductView.cs",
+              "ToolTip": "D:\\CafeManagementSystem\\CafeManagement\\CafeManagement\\View\\frmProductView.cs",
+              "RelativeToolTip": "CafeManagement\\View\\frmProductView.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:14:44.163Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
