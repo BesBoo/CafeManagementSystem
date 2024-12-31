@@ -83,16 +83,22 @@ namespace CafeManagement.View
 
                 lb4.Margin = new Padding(10, 5, 3,10);
                 lb4.AutoSize = true;
+                Label lb6 = new Label();
+                lb6.ForeColor = Color.White;
+                lb6.Margin = new Padding(10, 5, 3, 10);
+                lb6.AutoSize = true;
 
                 lb1.Text = "Table: " + dt1.Rows[i]["TableName"].ToString();
                 lb2.Text = "Waiter Name: " + dt1.Rows[i]["WaiterName"].ToString();
                 lb3.Text = "Order Time: " + dt1.Rows[i]["aTime"].ToString();
                 lb4.Text = "Order Type: " + dt1.Rows[i]["orderType"].ToString();
+                lb6.Text = "Status: " + dt1.Rows[i]["status"].ToString();
 
                 p2.Controls.Add(lb1);
                 p2.Controls.Add(lb2);
                 p2.Controls.Add(lb3);
                 p2.Controls.Add(lb4);
+                p2.Controls.Add(lb6);
 
                 p1.Controls.Add(p2);
 
