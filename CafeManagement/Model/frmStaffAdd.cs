@@ -28,11 +28,11 @@ namespace CafeManagement.Model
 
             if (id == 0)
             {
-                qry = "insert into staff values (@Name, @phone, @role)";
+                qry = "insert into staff(sName, sPhone, sRole, sAddress) values (@Name, @phone, @role,@address)";
             }
             else
             {
-                qry = "Update staff set sName = @Name, sPhone = @phone, sRole = @role where staffID = @id";
+                qry = "Update staff set sName = @Name, sPhone = @phone, sRole = @role, sAddress = @address where staffID = @id";
             }
 
             Hashtable ht = new Hashtable();
@@ -40,6 +40,7 @@ namespace CafeManagement.Model
             ht.Add("@Name", txtName.Text);
             ht.Add("@phone", txtPhone.Text);
             ht.Add("@role", cbRole.Text);
+            ht.Add("@address",txtAddress.Text);
 
             if (MainClass.SQL(qry, ht) > 0)
             {
@@ -48,6 +49,7 @@ namespace CafeManagement.Model
                 id = 0;
                 txtName.Text = "";
                 txtPhone.Text = "";
+                txtAddress.Text = "";
                 cbRole.SelectedIndex = -1;
                 txtName.Focus();
             }
@@ -64,6 +66,11 @@ namespace CafeManagement.Model
 
             
             cbRole.DataSource = roles.Where(role => role != "Fired").ToList();
+
+            if (!string.IsNullOrEmpty(cbRole.Tag?.ToString()))
+            {
+                cbRole.SelectedItem = cbRole.Tag.ToString();
+            }
 
             
         } 
