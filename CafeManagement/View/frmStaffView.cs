@@ -1,4 +1,4 @@
-﻿using CafeManagement.Model;
+using CafeManagement.Model;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -18,6 +18,8 @@ namespace CafeManagement.View
         {
             InitializeComponent();
             this.Shown += frmStaffView_Shown;
+
+            
         }
 
         //private void frmStaffView_Load(object sender, EventArgs e)
@@ -37,12 +39,13 @@ namespace CafeManagement.View
         }
         public void GetData()
         {
-            string qry = "select * from staff where sRole !='Fired' and sName like '%" + txtSearch.Text + "%' ";
+            string qry = "select staffID, sName, sPhone, sRole, sAddress from staff where sRole !='Fired' and sName like '%" + txtSearch.Text + "%' ";
             ListBox lb = new ListBox();
             lb.Items.Add(dgvid);
             lb.Items.Add(dgvName);
             lb.Items.Add(dgvPhone);
             lb.Items.Add(dgvRole);
+            lb.Items.Add(dgvAddress);
 
             MainClass.LoadData(qry, dataGridView1, lb);
 
@@ -60,8 +63,9 @@ namespace CafeManagement.View
                 frmStaffAdd frm = new frmStaffAdd();
                 frm.id = Convert.ToInt32(dataGridView1.CurrentRow.Cells["dgvid"].Value);
                 frm.txtName.Text = Convert.ToString(dataGridView1.CurrentRow.Cells["dgvName"].Value);
+                frm.cbRole.Tag = Convert.ToString(dataGridView1.CurrentRow.Cells["dgvRole"].Value);
                 frm.txtPhone.Text = Convert.ToString(dataGridView1.CurrentRow.Cells["dgvPhone"].Value);
-                frm.cbRole.Text = Convert.ToString(dataGridView1.CurrentRow.Cells["dgvRole"].Value);
+                frm.txtAddress.Text = Convert.ToString(dataGridView1.CurrentRow.Cells["dgvAddress"].Value);
 
                 MainClass.BlurBackground(frm);
 
