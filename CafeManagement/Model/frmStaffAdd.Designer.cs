@@ -1,4 +1,4 @@
-﻿namespace CafeManagement.Model
+namespace CafeManagement.Model
 {
     partial class frmStaffAdd
     {
@@ -40,6 +40,8 @@
             this.txtPhone = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.cbRole = new System.Windows.Forms.ComboBox();
+            this.txtAddress = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel2.SuspendLayout();
             this.panel1.SuspendLayout();
@@ -167,10 +169,29 @@
             this.cbRole.Size = new System.Drawing.Size(311, 31);
             this.cbRole.TabIndex = 24;
             // 
+            // txtAddress
+            // 
+            this.txtAddress.Location = new System.Drawing.Point(36, 367);
+            this.txtAddress.Name = "txtAddress";
+            this.txtAddress.Size = new System.Drawing.Size(307, 30);
+            this.txtAddress.TabIndex = 25;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.ForeColor = System.Drawing.Color.Black;
+            this.label5.Location = new System.Drawing.Point(32, 326);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(70, 23);
+            this.label5.TabIndex = 26;
+            this.label5.Text = "Address";
+            // 
             // frmStaffAdd
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.ClientSize = new System.Drawing.Size(888, 610);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.txtAddress);
             this.Controls.Add(this.cbRole);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -209,5 +230,7 @@
         public System.Windows.Forms.TextBox txtPhone;
         public System.Windows.Forms.Label label4;
         public System.Windows.Forms.ComboBox cbRole;
+        public System.Windows.Forms.Label label5;
+        public System.Windows.Forms.TextBox txtAddress;
     }
 }
