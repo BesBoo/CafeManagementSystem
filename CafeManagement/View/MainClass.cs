@@ -1,4 +1,4 @@
-﻿using CafeManagement.Model;
+using CafeManagement.Model;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -15,7 +15,7 @@ namespace CafeManagement
     public class MainClass
     {
         public static readonly string con_string = @"Data Source=DUCCKY\SQLEXPRESS;Initial Catalog=projectLTCSDL;Integrated Security=True;";
-        public static string API_Key = "AIzaSyDDJ4TksnOoLnREL_7yfxiKYz1yrvALfJM";
+
         public static SqlConnection con = new SqlConnection(con_string);
 
     public static bool isvalidUser(string user, string pass)
@@ -111,6 +111,34 @@ namespace CafeManagement
             get { return user; }
             set { user = value; }
         }
+
+        public static string GetuserRole(string username)
+        {
+            string role = string.Empty;
+
+            try
+            {
+                string sql = "select uRole from users where username = @username";
+                SqlCommand cmd = new SqlCommand(sql, con);
+                cmd.Parameters.AddWithValue ("@username", username);
+
+                if(con.State == ConnectionState.Closed)
+                {
+                    con.Open();
+                }
+
+                role = cmd.ExecuteScalar()?.ToString();
+                con.Close();
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show($"Error: { ex.Message}","Notification",MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            return role;
+        }
+
+       
 
         public static int SQL(string qry, Hashtable ht)
         {
