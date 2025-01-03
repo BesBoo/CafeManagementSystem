@@ -1,4 +1,4 @@
-﻿using CafeManagement.Model;
+using CafeManagement.Model;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -21,6 +21,7 @@ namespace CafeManagement.View
 
         private void frmTableView_Load(object sender, EventArgs e)
         {
+            GetRole();
             GetData();
             MainClass.ApplyTheme(this, ThemeManager.CurrentTheme);
             ThemeManager.ThemeChanged += OnThemeChanged;
@@ -28,6 +29,28 @@ namespace CafeManagement.View
         private void OnThemeChanged(string newTheme)
         {
             MainClass.ApplyTheme(this, newTheme);
+        }
+
+        private void GetRole()
+        {
+            try
+            {
+                string role = MainClass.GetuserRole(MainClass.USER);
+
+                if (role == "waiter")
+                {
+                    btn_Add.Visible = false;
+
+                    dataGridView1.Columns["dgvedit"].Visible = false;
+                    dataGridView1.Columns["dgvdel"].Visible = false;
+                }
+
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
         public void GetData()
         {
