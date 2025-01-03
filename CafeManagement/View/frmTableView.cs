@@ -40,9 +40,14 @@ namespace CafeManagement.View
                 if (role == "waiter")
                 {
                     btn_Add.Visible = false;
+                    if(dataGridView1.Columns.Contains("dgvedit")){
+                        dataGridView1.Columns["dgvedit"].Visible = false;  
+                    }
 
-                    dataGridView1.Columns["dgvedit"].Visible = false;
-                    dataGridView1.Columns["dgvdel"].Visible = false;
+                    
+                    if(dataGridView1.Columns.Contains("dgvdel")){
+                        dataGridView1.Columns["dgvdel"].Visible = false;  
+                    }
                 }
 
             }
