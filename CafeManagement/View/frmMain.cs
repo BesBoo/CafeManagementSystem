@@ -1,4 +1,4 @@
-﻿using CafeManagement.Model;
+using CafeManagement.Model;
 using CafeManagement.Reports;
 using CafeManagement.View;
 using System;
@@ -10,6 +10,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace CafeManagement
 {
@@ -143,9 +144,39 @@ namespace CafeManagement
         {
             SetUserLabel(MainClass.USER);
 
-           
+            string role = MainClass.GetuserRole(MainClass.USER);
+
+            btn_home.Visible = false;
+            btn_cate.Visible = false;
+            btn_product.Visible = false;
+            btn_table.Visible = false;
+            btn_staff.Visible = false;
+            btn_pos.Visible = false;
+            btn_kitchen.Visible = false;
+            btn_Report.Visible = false;
+
+            if (role == "admin")
+            {
+                btn_home.Visible = true;
+                btn_cate.Visible = true;
+                btn_table.Visible=true;
+                btn_product.Visible = true;
+                btn_staff.Visible=true;
+                btn_Report.Visible=true;
+            }
+            else
+            {
+                btn_home.Visible = true;
+                btn_table.Visible = true;
+                btn_pos.Visible = true;
+                btn_kitchen.Visible = true;
+                btn_product.Visible=true;
+
+            }
 
         }
+
+
 
        
         
