@@ -1,4 +1,4 @@
-﻿namespace CafeManagement
+namespace CafeManagement
 {
     partial class frmMain
     {
@@ -144,11 +144,10 @@
             this.btn_setting.ForeColor = System.Drawing.Color.Black;
             this.btn_setting.Image = global::CafeManagement.Properties.Resources.Setting_S;
             this.btn_setting.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btn_setting.Location = new System.Drawing.Point(30, 750);
+            this.btn_setting.Location = new System.Drawing.Point(-1, 726);
             this.btn_setting.Name = "btn_setting";
-            this.btn_setting.Size = new System.Drawing.Size(250, 54);
+            this.btn_setting.Size = new System.Drawing.Size(67, 63);
             this.btn_setting.TabIndex = 7;
-            this.btn_setting.Text = "Setting";
             this.btn_setting.UseVisualStyleBackColor = false;
             this.btn_setting.Click += new System.EventHandler(this.btn_setting_Click);
             // 
@@ -160,7 +159,7 @@
             this.btn_Report.ForeColor = System.Drawing.Color.Black;
             this.btn_Report.Image = global::CafeManagement.Properties.Resources.report_icon_image_32_removebg_preview__1_;
             this.btn_Report.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btn_Report.Location = new System.Drawing.Point(30, 680);
+            this.btn_Report.Location = new System.Drawing.Point(34, 530);
             this.btn_Report.Name = "btn_Report";
             this.btn_Report.Size = new System.Drawing.Size(250, 54);
             this.btn_Report.TabIndex = 8;
@@ -176,7 +175,7 @@
             this.btn_kitchen.ForeColor = System.Drawing.Color.Black;
             this.btn_kitchen.Image = global::CafeManagement.Properties.Resources.Kitchen_S;
             this.btn_kitchen.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btn_kitchen.Location = new System.Drawing.Point(30, 610);
+            this.btn_kitchen.Location = new System.Drawing.Point(34, 320);
             this.btn_kitchen.Name = "btn_kitchen";
             this.btn_kitchen.Size = new System.Drawing.Size(250, 54);
             this.btn_kitchen.TabIndex = 6;
@@ -192,7 +191,7 @@
             this.btn_pos.ForeColor = System.Drawing.Color.Black;
             this.btn_pos.Image = global::CafeManagement.Properties.Resources.Pos_S;
             this.btn_pos.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btn_pos.Location = new System.Drawing.Point(30, 540);
+            this.btn_pos.Location = new System.Drawing.Point(30, 260);
             this.btn_pos.Name = "btn_pos";
             this.btn_pos.Size = new System.Drawing.Size(250, 54);
             this.btn_pos.TabIndex = 5;
@@ -208,7 +207,7 @@
             this.btn_staff.ForeColor = System.Drawing.Color.Black;
             this.btn_staff.Image = global::CafeManagement.Properties.Resources.Staff_S;
             this.btn_staff.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btn_staff.Location = new System.Drawing.Point(30, 470);
+            this.btn_staff.Location = new System.Drawing.Point(30, 320);
             this.btn_staff.Name = "btn_staff";
             this.btn_staff.Size = new System.Drawing.Size(250, 54);
             this.btn_staff.TabIndex = 4;
@@ -224,7 +223,7 @@
             this.btn_table.ForeColor = System.Drawing.Color.Black;
             this.btn_table.Image = global::CafeManagement.Properties.Resources.Table_S;
             this.btn_table.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btn_table.Location = new System.Drawing.Point(30, 400);
+            this.btn_table.Location = new System.Drawing.Point(34, 460);
             this.btn_table.Name = "btn_table";
             this.btn_table.Size = new System.Drawing.Size(250, 54);
             this.btn_table.TabIndex = 3;
@@ -240,7 +239,7 @@
             this.btn_product.ForeColor = System.Drawing.Color.Black;
             this.btn_product.Image = global::CafeManagement.Properties.Resources.drink_icon_removebg_preview__3_;
             this.btn_product.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btn_product.Location = new System.Drawing.Point(30, 330);
+            this.btn_product.Location = new System.Drawing.Point(34, 390);
             this.btn_product.Name = "btn_product";
             this.btn_product.Size = new System.Drawing.Size(250, 54);
             this.btn_product.TabIndex = 2;
@@ -272,7 +271,7 @@
             this.btn_home.ForeColor = System.Drawing.Color.Black;
             this.btn_home.Image = global::CafeManagement.Properties.Resources.Home_S;
             this.btn_home.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btn_home.Location = new System.Drawing.Point(30, 190);
+            this.btn_home.Location = new System.Drawing.Point(30, 197);
             this.btn_home.Name = "btn_home";
             this.btn_home.Size = new System.Drawing.Size(250, 54);
             this.btn_home.TabIndex = 0;
