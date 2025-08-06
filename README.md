@@ -1,4 +1,4 @@
-# 🏪 Cafe Management System
+#  Cafe Management System
 
 A comprehensive Windows Forms application built with C# for managing cafe operations including order management, inventory tracking, staff management, and billing.
 
@@ -6,7 +6,7 @@ A comprehensive Windows Forms application built with C# for managing cafe operat
 ![Language](https://img.shields.io/badge/Language-C%23-green)
 ![Database](https://img.shields.io/badge/Database-SQL%20Server-red)
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Features](#features)
 - [System Requirements](#system-requirements)
@@ -18,37 +18,37 @@ A comprehensive Windows Forms application built with C# for managing cafe operat
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 
-## ✨ Features
+##  Features
 
-### 🛍️ Order Management
+###  Order Management
 - **Multiple Order Types**: Dine-in, Take Away, and Delivery
 - **Real-time Order Processing**: Kitchen Order Tickets (KOT) system
 - **Order Status Tracking**: Pending, Complete, Hold, Paid
 - **Table Management**: Dynamic table selection and availability tracking
 
-### 📦 Inventory Management
+###  Inventory Management
 - **Product Management**: Add, edit, delete products with categories
 - **Stock Tracking**: Real-time inventory updates
 - **Category Management**: Organize products by categories
 - **Image Support**: Product images for better visualization
 
-### 👥 Staff Management
+###  Staff Management
 - **Role-based Access**: Cashier, Waiter, Driver, Manager roles
 - **Staff Information**: Complete staff profile management
 - **Driver Assignment**: Automatic driver assignment for delivery orders
 
-### 💰 Billing & Payments
+###  Billing & Payments
 - **Invoice Generation**: Automatic bill generation
 - **Excel Export**: Order details exported to Excel format
 - **Payment Processing**: Cash handling with change calculation
 - **Bill History**: Complete transaction records
 
-### 🎨 User Interface
+###  User Interface
 - **Theme Support**: Light and Dark mode themes
 - **Responsive Design**: Adaptive UI components
 - **User-friendly**: Intuitive navigation and controls
 
-## 🔧 System Requirements
+##  System Requirements
 
 - **Operating System**: Windows 7/8/10/11
 - **.NET Framework**: 4.7.2 or higher
@@ -57,7 +57,7 @@ A comprehensive Windows Forms application built with C# for managing cafe operat
   - OfficeOpenXml (EPPlus)
   - System.Data.SqlClient
 
-## 🚀 Installation
+##  Installation
 
 1. **Clone the repository**
    ```bash
@@ -79,10 +79,10 @@ A comprehensive Windows Forms application built with C# for managing cafe operat
 4. **Update connection string**
    In `MainClass.cs`, update the connection string:
    ```csharp
-   public static readonly string con_string = @"Data Source=YOUR_SERVER;Initial Catalog=projectLTCSDL;Integrated Security=True;";
+   public static readonly string con_string = @"Data Source=YOUR_SERVER;Initial Catalog=YOUR_DATABASE_NAME;Integrated Security=True;";
    ```
 
-## 🗄️ Database Setup
+##  Database Setup
 
 ### Required Tables
 
@@ -158,7 +158,7 @@ CREATE TABLE tblDetails (
 );
 ```
 
-## 🎯 Usage
+##  Usage
 
 ### Login System
 ```csharp
@@ -190,7 +190,7 @@ MainClass.ApplyTheme(this, ThemeManager.CurrentTheme);
 ThemeManager.ThemeChanged += OnThemeChanged;
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 CafeManagement/
@@ -210,7 +210,7 @@ CafeManagement/
 └── ThemeManager.cs            # Theme management system
 ```
 
-## 🔑 Key Components
+##  Key Components
 
 ### 1. Point of Sale (POS) System
 - **Dynamic Product Loading**: Products loaded from database with categories
@@ -232,7 +232,7 @@ CafeManagement/
 - **Bill Generation**: Professional invoice creation
 - **Sales Analytics**: Order history and tracking
 
-## 🖼️ Screenshots
+##  Screenshots
 
 ### Main POS Interface
 The main POS interface features:
@@ -253,7 +253,7 @@ The main POS interface features:
 - Payment processing
 - Receipt generation
 
-## 🛠️ Configuration
+##  Configuration
 
 ### Database Connection
 Update the connection string in `MainClass.cs`:
@@ -272,7 +272,7 @@ Excel files are saved to:
 string folderPath = @"D:\Hóa đơn";
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -280,18 +280,15 @@ string folderPath = @"D:\Hóa đơn";
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Built with Windows Forms and C#
 - Uses EPPlus for Excel generation
 - SQL Server for data management
 - Modern UI design principles
 
-## 📞 Support
+##  Support
 
 For support and questions:
 - Create an issue in the repository
